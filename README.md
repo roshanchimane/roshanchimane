@@ -76,7 +76,7 @@ I love exploring datasets, solving business problems, building dashboards, and a
 [![Accenture Data Analytics & Visualization](https://img.shields.io/badge/Accenture-Data%20Analytics%20%26%20Visualization-AC2EFF?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/roshanchimane/RoshanCertificates/blob/1151f3f404a6b58edc14e525064b39c8e36ebb61/Forage/ACCENTURE-%20Data%20Analytics.pdf)
 
 ### 📌 AWS
-[![AWS Solutions Architecture Simulation](https://img.shields.io/badge/AWS-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![AWS Solutions Architecture Simulation](https://img.shields.io/badge/AWS-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/roshanchimane/RoshanCertificates/blob/1151f3f404a6b58edc14e525064b39c8e36ebb61/Forage/AWS-%20Solutions%20Architecture.pdf)
 
 ### 📌 Deloitte
 [![Deloitte Data Analytics Simulation](https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](#)
