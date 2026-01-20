@@ -73,7 +73,7 @@ I love exploring datasets, solving business problems, building dashboards, and a
 [![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/Y9LVPTAYW9DJ)
 
 ### 📌 Accenture
-[![Accenture Data Analytics & Visualization](https://img.shields.io/badge/Accenture-Data%20Analytics%20%26%20Visualization-AC2EFF?style=for-the-badge&logo=accenture&logoColor=white)]([https://www.linkedin.com/in/roshan-chimane/](https://github.com/roshanchimane/RoshanCertificates/blob/main/Forage/ACCENTURE-%20Data%20Analytics.pdf))
+[![Accenture Data Analytics & Visualization](https://img.shields.io/badge/Accenture-Data%20Analytics%20%26%20Visualization-AC2EFF?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/roshanchimane/RoshanCertificates/blob/1151f3f404a6b58edc14e525064b39c8e36ebb61/Forage/ACCENTURE-%20Data%20Analytics.pdf)
 
 ### 📌 AWS
 [![AWS Solutions Architecture Simulation](https://img.shields.io/badge/AWS-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
