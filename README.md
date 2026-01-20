@@ -106,9 +106,8 @@ I love exploring datasets, solving business problems, building dashboards, and a
 ---
 
 # 📈 **GitHub Analytics**
-![](https://github-readme-stats.vercel.app/api?username=roshanchimane&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=roshanchimane&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchimane&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
