@@ -8,7 +8,7 @@ I love exploring datasets, solving business problems, building dashboards, and a
 
 ---
 
-# 📌 **What I Do**
+## 📌 **What I Do**
 - 📈 Data Cleaning & Exploration  
 - 📊 Dashboard & Report Development  
 - 🧮 Statistical Analysis  
