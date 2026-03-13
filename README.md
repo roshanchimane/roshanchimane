@@ -90,7 +90,7 @@ I love exploring datasets, solving business problems, building dashboards, and a
 
 
 
-# 🚀 **Current Goals**
+## 🚀 **Current Goals**
 - Master Advanced SQL  
 - Build more end-to-end analytics projects  
 - Learn forecasting & machine learning  
