@@ -48,7 +48,7 @@ I love exploring datasets, solving business problems, building dashboards, and a
 - Attrition pattern study  
 - Power BI Dashboard  
 - Predictive modeling  
-**Tech:** Python, Pandas, Power BI  
+  Tech: Python, Pandas, Power BI  
 
 ---
 
